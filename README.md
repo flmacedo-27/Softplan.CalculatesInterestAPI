@@ -1,5 +1,7 @@
 # Softplan.CalculatesInterestAPI
 
+Para que a aplicação funcione, deve primeiro rodar o projeto [InterestRateAPI](https://github.com/flmacedo-27/Softplan.InterestRateAPI)
+
 # Getting Started
 
 ### Requisitos
